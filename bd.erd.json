@@ -129,7 +129,7 @@
           "y": 91,
           "zIndex": 41,
           "widthName": 60,
-          "widthComment": 63,
+          "widthComment": 68,
           "color": ""
         },
         "meta": {
@@ -177,7 +177,7 @@
           "x": 691,
           "y": 420.9899,
           "zIndex": 73,
-          "widthName": 64,
+          "widthName": 69,
           "widthComment": 60,
           "color": ""
         },
@@ -214,19 +214,19 @@
       "I2onjNKO5USUbJcSV5qxH": {
         "id": "I2onjNKO5USUbJcSV5qxH",
         "name": "weightCategories",
-        "comment": "Весовые jnrnf",
+        "comment": "Весовые категории",
         "columnIds": [],
         "seqColumnIds": [],
         "ui": {
           "x": 146,
           "y": 727,
           "zIndex": 97,
-          "widthName": 94,
-          "widthComment": 77,
+          "widthName": 99,
+          "widthComment": 116,
           "color": ""
         },
         "meta": {
-          "updateAt": 1770703572250,
+          "updateAt": 1770703786182,
           "createAt": 1770701948595
         }
       },
@@ -285,7 +285,7 @@
           "y": 38,
           "zIndex": 259,
           "widthName": 60,
-          "widthComment": 78,
+          "widthComment": 84,
           "color": ""
         },
         "meta": {
@@ -605,7 +605,7 @@
         "options": 8,
         "ui": {
           "keys": 2,
-          "widthName": 71,
+          "widthName": 75,
           "widthComment": 60,
           "widthDataType": 60,
           "widthDefault": 60
@@ -645,7 +645,7 @@
         "options": 8,
         "ui": {
           "keys": 2,
-          "widthName": 79,
+          "widthName": 85,
           "widthComment": 60,
           "widthDataType": 60,
           "widthDefault": 60
@@ -804,7 +804,7 @@
           "columnIds": [
             "rCLl3lreXR1ifmwzokVG-"
           ],
-          "x": 315,
+          "x": 317,
           "y": 294,
           "direction": 4
         },
@@ -832,7 +832,7 @@
           "columnIds": [
             "h1KONAPKR0VrnwgdRLqMA"
           ],
-          "x": 871,
+          "x": 874,
           "y": 588,
           "direction": 4
         },
@@ -851,7 +851,7 @@
           "columnIds": [
             "2NVpflTsDX2HVJcjt9HOo"
           ],
-          "x": 315,
+          "x": 317,
           "y": 398,
           "direction": 8
         },
@@ -879,7 +879,7 @@
           "columnIds": [
             "2NVpflTsDX2HVJcjt9HOo"
           ],
-          "x": 503,
+          "x": 507,
           "y": 346,
           "direction": 2
         },
