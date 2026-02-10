@@ -1,0 +1,325 @@
+{
+  "$schema": "https://raw.githubusercontent.com/dineug/erd-editor/main/json-schema/schema.json",
+  "version": "3.0.0",
+  "settings": {
+    "width": 2000,
+    "height": 2000,
+    "scrollTop": 0,
+    "scrollLeft": -265.7313,
+    "zoomLevel": 0.99,
+    "show": 431,
+    "database": 4,
+    "databaseName": "",
+    "canvasType": "ERD",
+    "language": 1,
+    "tableNameCase": 4,
+    "columnNameCase": 2,
+    "bracketType": 1,
+    "relationshipDataTypeSync": true,
+    "relationshipOptimization": false,
+    "columnOrder": [
+      1,
+      2,
+      4,
+      8,
+      16,
+      32,
+      64
+    ],
+    "maxWidthComment": -1,
+    "ignoreSaveSettings": 0
+  },
+  "doc": {
+    "tableIds": [
+      "BPu2JeAqH84yso1neofSF",
+      "6JgkKyG8yxS395w-kXYwi",
+      "L_5Tz00noSgadUCSSN57S",
+      "WROLWWV9oqCr7E1_U1Y2F",
+      "6NI93CvLJE5mwZfBdr7Bc",
+      "MN5NNDjdQLtQyweDg1-p6",
+      "I2onjNKO5USUbJcSV5qxH",
+      "q7FhWSNwq4qVheEAaYpA4",
+      "2HH4oUE7g2TXy59xUkCb2"
+    ],
+    "relationshipIds": [],
+    "indexIds": [],
+    "memoIds": []
+  },
+  "collections": {
+    "tableEntities": {
+      "BPu2JeAqH84yso1neofSF": {
+        "id": "BPu2JeAqH84yso1neofSF",
+        "name": "member",
+        "comment": "Участник",
+        "columnIds": [
+          "mxB9HAHClXTPkQ-JHmWth"
+        ],
+        "seqColumnIds": [
+          "mxB9HAHClXTPkQ-JHmWth"
+        ],
+        "ui": {
+          "x": 183,
+          "y": 115,
+          "zIndex": 2,
+          "widthName": 60,
+          "widthComment": 60,
+          "color": ""
+        },
+        "meta": {
+          "updateAt": 1770701752346,
+          "createAt": 1770701653070
+        }
+      },
+      "6JgkKyG8yxS395w-kXYwi": {
+        "id": "6JgkKyG8yxS395w-kXYwi",
+        "name": "club",
+        "comment": "Клуб",
+        "columnIds": [
+          "2NVpflTsDX2HVJcjt9HOo"
+        ],
+        "seqColumnIds": [
+          "2NVpflTsDX2HVJcjt9HOo"
+        ],
+        "ui": {
+          "x": 127,
+          "y": 294,
+          "zIndex": 12,
+          "widthName": 60,
+          "widthComment": 60,
+          "color": ""
+        },
+        "meta": {
+          "updateAt": 1770701790540,
+          "createAt": 1770701708820
+        }
+      },
+      "L_5Tz00noSgadUCSSN57S": {
+        "id": "L_5Tz00noSgadUCSSN57S",
+        "name": "federation",
+        "comment": "Фередарация",
+        "columnIds": [
+          "266s38OHaIYRK-tfAyC2b"
+        ],
+        "seqColumnIds": [
+          "266s38OHaIYRK-tfAyC2b"
+        ],
+        "ui": {
+          "x": 667,
+          "y": 251,
+          "zIndex": 41,
+          "widthName": 60,
+          "widthComment": 82,
+          "color": ""
+        },
+        "meta": {
+          "updateAt": 1770701802504,
+          "createAt": 1770701756311
+        }
+      },
+      "WROLWWV9oqCr7E1_U1Y2F": {
+        "id": "WROLWWV9oqCr7E1_U1Y2F",
+        "name": "employee",
+        "comment": "Сотрудник",
+        "columnIds": [
+          "HpSn2AQsYZ9mKheJlINL_"
+        ],
+        "seqColumnIds": [
+          "HpSn2AQsYZ9mKheJlINL_"
+        ],
+        "ui": {
+          "x": 134,
+          "y": 478,
+          "zIndex": 50,
+          "widthName": 60,
+          "widthComment": 64,
+          "color": ""
+        },
+        "meta": {
+          "updateAt": 1770701875064,
+          "createAt": 1770701799600
+        }
+      },
+      "6NI93CvLJE5mwZfBdr7Bc": {
+        "id": "6NI93CvLJE5mwZfBdr7Bc",
+        "name": "tournament",
+        "comment": "Турнир",
+        "columnIds": [],
+        "seqColumnIds": [],
+        "ui": {
+          "x": 838,
+          "y": 402,
+          "zIndex": 73,
+          "widthName": 69,
+          "widthComment": 60,
+          "color": ""
+        },
+        "meta": {
+          "updateAt": 1770701944639,
+          "createAt": 1770701875580
+        }
+      },
+      "MN5NNDjdQLtQyweDg1-p6": {
+        "id": "MN5NNDjdQLtQyweDg1-p6",
+        "name": "fight",
+        "comment": "Бой",
+        "columnIds": [],
+        "seqColumnIds": [],
+        "ui": {
+          "x": 828,
+          "y": 504,
+          "zIndex": 87,
+          "widthName": 60,
+          "widthComment": 60,
+          "color": ""
+        },
+        "meta": {
+          "updateAt": 1770701947344,
+          "createAt": 1770701918977
+        }
+      },
+      "I2onjNKO5USUbJcSV5qxH": {
+        "id": "I2onjNKO5USUbJcSV5qxH",
+        "name": "weightCategories",
+        "comment": "Весовые категоии",
+        "columnIds": [],
+        "seqColumnIds": [],
+        "ui": {
+          "x": 161,
+          "y": 787,
+          "zIndex": 97,
+          "widthName": 99,
+          "widthComment": 108,
+          "color": ""
+        },
+        "meta": {
+          "updateAt": 1770702004854,
+          "createAt": 1770701948595
+        }
+      },
+      "q7FhWSNwq4qVheEAaYpA4": {
+        "id": "q7FhWSNwq4qVheEAaYpA4",
+        "name": "belts",
+        "comment": "Пояса",
+        "columnIds": [],
+        "seqColumnIds": [],
+        "ui": {
+          "x": 573.4925,
+          "y": 782,
+          "zIndex": 106,
+          "widthName": 60,
+          "widthComment": 60,
+          "color": ""
+        },
+        "meta": {
+          "updateAt": 1770702045843,
+          "createAt": 1770702008863
+        }
+      },
+      "2HH4oUE7g2TXy59xUkCb2": {
+        "id": "2HH4oUE7g2TXy59xUkCb2",
+        "name": "Region",
+        "comment": "Регион",
+        "columnIds": [],
+        "seqColumnIds": [],
+        "ui": {
+          "x": 1085.9382,
+          "y": 629.7453,
+          "zIndex": 126,
+          "widthName": 60,
+          "widthComment": 60,
+          "color": ""
+        },
+        "meta": {
+          "updateAt": 1770702137156,
+          "createAt": 1770702051734
+        }
+      }
+    },
+    "tableColumnEntities": {
+      "mxB9HAHClXTPkQ-JHmWth": {
+        "id": "mxB9HAHClXTPkQ-JHmWth",
+        "tableId": "BPu2JeAqH84yso1neofSF",
+        "name": "id",
+        "comment": "",
+        "dataType": "INTEGER",
+        "default": "",
+        "options": 8,
+        "ui": {
+          "keys": 0,
+          "widthName": 60,
+          "widthComment": 60,
+          "widthDataType": 60,
+          "widthDefault": 60
+        },
+        "meta": {
+          "updateAt": 1770701723815,
+          "createAt": 1770701702868
+        }
+      },
+      "2NVpflTsDX2HVJcjt9HOo": {
+        "id": "2NVpflTsDX2HVJcjt9HOo",
+        "tableId": "6JgkKyG8yxS395w-kXYwi",
+        "name": "",
+        "comment": "",
+        "dataType": "",
+        "default": "",
+        "options": 0,
+        "ui": {
+          "keys": 0,
+          "widthName": 60,
+          "widthComment": 60,
+          "widthDataType": 60,
+          "widthDefault": 60
+        },
+        "meta": {
+          "updateAt": 1770701747781,
+          "createAt": 1770701747781
+        }
+      },
+      "266s38OHaIYRK-tfAyC2b": {
+        "id": "266s38OHaIYRK-tfAyC2b",
+        "tableId": "L_5Tz00noSgadUCSSN57S",
+        "name": "id",
+        "comment": "",
+        "dataType": "INTEGER",
+        "default": "",
+        "options": 8,
+        "ui": {
+          "keys": 0,
+          "widthName": 60,
+          "widthComment": 60,
+          "widthDataType": 60,
+          "widthDefault": 60
+        },
+        "meta": {
+          "updateAt": 1770701820390,
+          "createAt": 1770701802504
+        }
+      },
+      "HpSn2AQsYZ9mKheJlINL_": {
+        "id": "HpSn2AQsYZ9mKheJlINL_",
+        "tableId": "WROLWWV9oqCr7E1_U1Y2F",
+        "name": "id",
+        "comment": "",
+        "dataType": "",
+        "default": "",
+        "options": 8,
+        "ui": {
+          "keys": 0,
+          "widthName": 60,
+          "widthComment": 60,
+          "widthDataType": 60,
+          "widthDefault": 60
+        },
+        "meta": {
+          "updateAt": 1770701870503,
+          "createAt": 1770701865335
+        }
+      }
+    },
+    "relationshipEntities": {},
+    "indexEntities": {},
+    "indexColumnEntities": {},
+    "memoEntities": {}
+  }
+}
