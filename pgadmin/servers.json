@@ -1,0 +1,17 @@
+{
+    "Servers": {
+        "1": {
+            "Name": "Taekwondo DB",
+            "Group": "Servers",
+            "Host": "postgres",
+            "Port": 5432,
+            "MaintenanceDB": "postgres",
+            "Username": "postgres",
+            "SSLMode": "prefer",
+            "PassFile": "/pgpass",
+            "Timeout": 10,
+            "Shared": false,
+            "SavePassword": true
+        }
+    }
+}
