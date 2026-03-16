@@ -283,7 +283,7 @@ docker-compose up -d
 * **Ролевая модель**: Гибкая система RBAC (Permissions -> Roles -> UserRoles).
 * **Турнирный блок**: Поддержка весовых категорий, возрастных групп и уровней поясов.
 * **Механика матча**: Учет красного/синего углов, детализированные баллы от судей и фиксация победителя.
-### Схема сущностей (ER)
+[### Схема сущностей (ER)](https://github.com/yosin26/project_bd/tree/master?tab=readme-ov-file#taekwondo-federation-database-system)
 
 ---
 ## 📦 Инфраструктура (Docker)
